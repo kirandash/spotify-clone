@@ -6,3 +6,11 @@
 - Notes: https://tinted-gym-f99.notion.site/Fullstack-course-notes-Students-3202660c315b438aba6c1ae051963572
 - `npx create-next-app client`
 - `npm run dev`
+
+### 1.2 Setup Next.js, ESLint & TypeScript
+
+## 2 App Layout
+### 2.1 Setup Chakra UI
+- `import reset-css`: to reset css for different browsers
+- Use chakra library
+- While selecting a UI/Component library it's better if CSS can be scoped to JS file and not imported globally
