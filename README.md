@@ -14,3 +14,7 @@
 - `import reset-css`: to reset css for different browsers
 - Use chakra library
 - While selecting a UI/Component library it's better if CSS can be scoped to JS file and not imported globally
+
+### 2.2 Creating Player Layout
+- A box in Chakra is equivalent to a div
+- But it' better to use Box so that we can use Chakra's primitive option to style and not use inline style or stylesheet
